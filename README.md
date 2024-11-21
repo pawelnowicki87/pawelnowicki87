@@ -17,28 +17,50 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 ## 🛠️ **Tech Stack**
 Here are some technologies I work with daily:
 
-**Frontend**:  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-
-**Backend**:  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-
-**Tools & Platforms**:  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 
 ---
 
-## 🖥️ **GitHub Stats**
-Check out my GitHub activity:
+## 🖥️ **Projects**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawel-nowicki&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawel-nowicki&layout=compact&theme=radical)
+### 📱 Phone Catalog (React)
+[GitHub Repository](https://github.com/pawelnowicki87/phone_catalog_react)  
+[![Phone Catalog Demo](https://via.placeholder.com/500x300.png?text=Phone+Catalog+App)](https://phone-catalog-react.vercel.app)
+
+---
+
+### 🎨 Welcome to the Met
+[GitHub Repository](https://github.com/pawelnowicki87/welcome_to_the_met)  
+[![Welcome to the Met Demo](https://via.placeholder.com/500x300.png?text=Welcome+to+the+Met)](https://pawelnowicki87.github.io/welcome_to_the_met/)
+
+---
+
+### 🎮 2048 Game
+[GitHub Repository](https://github.com/pawelnowicki87/2048_game)  
+[![2048 Game Demo](https://via.placeholder.com/500x300.png?text=2048+Game)](https://pawelnowicki87.github.io/2048_game/)
+
+---
+
+### 📝 List of Posts (React + Redux)
+[GitHub Repository](https://github.com/pawelnowicki87/list_of_posts_react_redux)  
+[![List of Posts Demo](https://via.placeholder.com/500x300.png?text=List+of+Posts)](https://pawelnowicki87.github.io/list_of_posts_react_redux/)
+
+---
+
+### ✅ Todo App with API (React)
+[GitHub Repository](https://github.com/pawelnowicki87/todo_app_with_api_react)  
+[![Todo App Demo](https://via.placeholder.com/500x300.png?text=Todo+App+with+API)](https://pawelnowicki87.github.io/todo_app_with_api_react/)
+
+---
+
+## 🌍 **Quotes I Live By**
+> “The best way to predict the future is to create it.” – Abraham Lincoln  
+> “If you want to be smarter, you need to surround yourself with people smarter than you.”
 
 ---
 
@@ -47,16 +69,6 @@ I’d love to hear from you. Feel free to reach out!
 
 - 💌 Email: [pawelnowickifullstack@gmail.com](mailto:pawelnowickifullstack@gmail.com)
 - 💼 LinkedIn: [Paweł Nowicki](https://www.linkedin.com/in/pawe%C5%82-nowicki-305380268/)
-- 🌐 GitHub Portfolio: [pawel-nowicki](https://github.com/pawel-nowicki)
-
----
-
-## 🌍 **A Quote I Live By**
-> “The best way to predict the future is to create it.” – Abraham Lincoln
-
----
-
-## 🚀 **Check This Out!**
-![Code GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+- 🌐 GitHub Portfolio: [pawel-nowicki](https://github.com/pawelnowicki)
 
 ---
