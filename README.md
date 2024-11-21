@@ -8,9 +8,9 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 
 ## 🌟 **About Me**
 - 🔭 I’m currently working on building **innovative web applications**.
-- 🌱 Learning never stops: diving deeper into **.NET Core**, **C#**, **MVC Model**.
+- 🌱 Learning never stops: diving deeper into **Cloud Architecture**, **DevOps**, and **.NET Core**.
 - 👯 Open to collaboration on exciting **open-source** or **team projects**.
-- ⚡ Fun fact: I love **driving my bikecycle**, exploring new places, and improving my **skills**.
+- ⚡ Fun fact: I love **riding my bicycle**, exploring new places, and improving my skills.
 
 ---
 
@@ -52,20 +52,18 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
     <a href="https://pawelnowicki87.github.io/welcome_to_the_met/">Demo</a> · <a href="https://github.com/pawelnowicki87/welcome_to_the_met">GitHub</a> <br>
     <img src="https://via.placeholder.com/250x150.png?text=Welcome+to+the+Met" alt="Welcome to the Met Demo" width="250"/>
   </td>
-</tr>
-<tr>
   <td align="center">
     <strong>🎮 2048 Game</strong> <br>
     <a href="https://pawelnowicki87.github.io/2048_game/">Demo</a> · <a href="https://github.com/pawelnowicki87/2048_game">GitHub</a> <br>
     <img src="https://via.placeholder.com/250x150.png?text=2048+Game" alt="2048 Game Demo" width="250"/>
   </td>
+</tr>
+<tr>
   <td align="center">
     <strong>📝 List of Posts (React + Redux)</strong> <br>
     <a href="https://pawelnowicki87.github.io/list_of_posts_react_redux/">Demo</a> · <a href="https://github.com/pawelnowicki87/list_of_posts_react_redux">GitHub</a> <br>
     <img src="https://via.placeholder.com/250x150.png?text=List+of+Posts" alt="List of Posts Demo" width="250"/>
   </td>
-</tr>
-<tr>
   <td align="center">
     <strong>✅ Todo App with API (React)</strong> <br>
     <a href="https://pawelnowicki87.github.io/todo_app_with_api_react/">Demo</a> · <a href="https://github.com/pawelnowicki87/todo_app_with_api_react">GitHub</a> <br>
