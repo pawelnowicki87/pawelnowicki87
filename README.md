@@ -1,8 +1,12 @@
-# 👋 Hi, I'm **Paweł Nowicki**!
+# 👋 Hi, I'm **Paweł Nowicki** - **Full-Stack Developer** !
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=29A8E0&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Tech+Problem+Solver)
 
-I’m a passionate **Full-Stack Developer** with a knack for crafting robust, scalable applications and solving complex problems. Always curious, always learning, and always coding. 🚀
+I’m a passionate **Full-Stack Developer** with a knack for crafting robust, scalable applications and solving complex problems. Always 
+<span class="highlight">curious</span>, 
+<span class="highlight">learning</span>, 
+and 
+<span class="highlight">coding</span>. 🚀
 
 ---
 
@@ -97,3 +101,30 @@ I’d love to hear from you! 🚀 Feel free to reach out and let's collaborate o
 - 🌐 GitHub Portfolio: [pawel-nowicki](https://github.com/pawelnowicki)
 
 <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Let's Connect!" width="250"/>
+
+<style>
+    .highlight {
+        animation: highlight 1.5s infinite alternate;
+    }
+
+    .highlight:nth-child(1) {
+        animation-delay: 0s;
+    }
+    .highlight:nth-child(2) {
+        animation-delay: 0.5s;
+    }
+    .highlight:nth-child(3) {
+        animation-delay: 1s;
+    }
+
+    @keyframes highlight {
+        0% {
+            color: #29A8E0;
+            font-weight: bold;
+        }
+        100% {
+            color: #FF6347;
+            font-weight: normal;
+        }
+    }
+</style>
