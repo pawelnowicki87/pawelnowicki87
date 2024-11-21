@@ -10,13 +10,7 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 - 🔭 I’m currently working on building **innovative web applications** that make a real-world impact.
 - 🌱 Learning never stops: diving deeper into **.NET Core**, **C#**, **MVC Model**.
 - 👯 Open to collaboration on exciting **open-source** or **team projects**. Let’s build something together!
-- ⚡ Fun fact: I love **riding my bicycle**, exploring new places, and always pushing my skills to the next level.
-
-<p align="center">
-  <span class="highlight">Always curious</span>, 
-  <span class="highlight">always learning</span>, 
-  <span class="highlight">always coding</span>.
-</p>
+- ⚡ Fun fact: I love **watching movies, playing games**, exploring new places, and always pushing my skills to the next level.
 
 ---
 
@@ -102,13 +96,4 @@ I’d love to hear from you! 🚀 Feel free to reach out and let's collaborate o
 - 💼 LinkedIn: [Paweł Nowicki](https://www.linkedin.com/in/pawe%C5%82-nowicki-305380268/)
 - 🌐 GitHub Portfolio: [pawel-nowicki](https://github.com/pawelnowicki)
 
-<div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div>
-      <a href="mailto:pawelnowickifullstack@gmail.com">💌 Email</a> | 
-      <a href="https://www.linkedin.com/in/pawe%C5%82-nowicki-305380268/">💼 LinkedIn</a> | 
-      <a href="https://github.com/pawelnowicki">🌐 GitHub</a>
-    </div>
-    <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Let's Connect!" width="250"/>
-  </div>
-</div>
+<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Let's Connect!" width="250"/>
