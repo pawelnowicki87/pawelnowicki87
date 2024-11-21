@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Cześć! 👋
+
+Jestem **Paweł Nowicki**, programista i entuzjasta open-source. 🖥️
+
+- 🌱 Aktualnie uczę się: Reacta i Node.js
+- 👯 Szukam współpracy przy projektach open-source
+- ⚡ Fun fact: Uwielbiam grać w szachy i podróżować! 🌍
+
+## 📫 Kontakt
+- Email: pawelnowickifullstack@gmail.com
+- LinkedIn: [Twój Profil](https://www.linkedin.com/in/pawe%C5%82-nowicki-305380268/)
