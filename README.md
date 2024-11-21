@@ -7,10 +7,10 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 ---
 
 ## 🌟 **About Me**
-- 🔭 I’m currently working on building **innovative web applications**.
-- 🌱 Learning never stops: diving deeper into **Cloud Architecture**, **DevOps**, and **.NET Core**.
-- 👯 Open to collaboration on exciting **open-source** or **team projects**.
-- ⚡ Fun fact: I love **riding my bicycle**, exploring new places, and improving my skills.
+- 🔭 I’m currently working on building **innovative web applications** that make a real-world impact.
+- 🌱 Learning never stops: diving deeper into **.NET Core**, **C#**, **MVC Model** and exploring the **cloud technologies**.
+- 👯 Open to collaboration on exciting **open-source** or **team projects**. Let’s build something together!
+- ⚡ Fun fact: I love **riding my bicycle**, exploring new places, and always pushing my skills to the next level.
 
 ---
 
@@ -30,9 +30,14 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
-### 📖 Learning
+### 📖 Currently Learning
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)  
 
 ---
 
@@ -79,12 +84,16 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 
 ## 🌍 **Quotes I Live By**
 > “The best way to predict the future is to create it.” – Abraham Lincoln  
+> **Mój komentarz**: Właśnie dlatego tworzę i rozwijam projekty, które mają wpływ na rzeczywistość.  
 > “If you want to be smarter, you need to surround yourself with people smarter than you.”
 
 ---
 
 ## 📫 **Let's Connect!**
-I’d love to hear from you. Feel free to reach out!
+
+I’d love to hear from you! 🚀 Feel free to reach out and let's collaborate on something amazing. 
+
+![Let's Connect!](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
 
 - 💌 Email: [pawelnowickifullstack@gmail.com](mailto:pawelnowickifullstack@gmail.com)
 - 💼 LinkedIn: [Paweł Nowicki](https://www.linkedin.com/in/pawe%C5%82-nowicki-305380268/)
