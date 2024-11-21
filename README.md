@@ -8,9 +8,15 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 
 ## 🌟 **About Me**
 - 🔭 I’m currently working on building **innovative web applications** that make a real-world impact.
-- 🌱 Learning never stops: diving deeper into **.NET Core**, **C#**, **MVC Model**.
+- 🌱 Learning never stops: diving deeper into **.NET Core**, **C#**, **MVC Model** and exploring the **cloud technologies**.
 - 👯 Open to collaboration on exciting **open-source** or **team projects**. Let’s build something together!
 - ⚡ Fun fact: I love **riding my bicycle**, exploring new places, and always pushing my skills to the next level.
+
+<p align="center">
+  <span class="highlight">Always curious</span>, 
+  <span class="highlight">always learning</span>, 
+  <span class="highlight">always coding</span>.
+</p>
 
 ---
 
@@ -100,3 +106,38 @@ I’d love to hear from you! 🚀 Feel free to reach out and let's collaborate o
 <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Let's Connect!" align="right" width="250"/>
 
 ---
+
+<style>
+  .highlight {
+    font-weight: bold;
+    color: #29A8E0;
+    animation: highlightAnimation 3s ease-in-out infinite;
+  }
+
+  .highlight:nth-child(1) {
+    animation-delay: 0s;
+  }
+
+  .highlight:nth-child(2) {
+    animation-delay: 1s;
+  }
+
+  .highlight:nth-child(3) {
+    animation-delay: 2s;
+  }
+
+  @keyframes highlightAnimation {
+    0% {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    100% {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+  }
+</style>
