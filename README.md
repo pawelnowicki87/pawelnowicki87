@@ -23,6 +23,7 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 ### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
@@ -39,13 +40,40 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 
 <div align="center">
 
-| Project | Demo & Code |
-|---------|-------------|
-| **📱 Phone Catalog (React)** | [Demo](https://phone-catalog-react.vercel.app) · [GitHub](https://github.com/pawelnowicki87/phone_catalog_react) <br> <img src="https://via.placeholder.com/250x150.png?text=Phone+Catalog+App" alt="Phone Catalog Demo" width="250"/> |
-| **🎨 Welcome to the Met** | [Demo](https://pawelnowicki87.github.io/welcome_to_the_met/) · [GitHub](https://github.com/pawelnowicki87/welcome_to_the_met) <br> <img src="https://via.placeholder.com/250x150.png?text=Welcome+to+the+Met" alt="Welcome to the Met Demo" width="250"/> |
-| **🎮 2048 Game** | [Demo](https://pawelnowicki87.github.io/2048_game/) · [GitHub](https://github.com/pawelnowicki87/2048_game) <br> <img src="https://via.placeholder.com/250x150.png?text=2048+Game" alt="2048 Game Demo" width="250"/> |
-| **📝 List of Posts (React + Redux)** | [Demo](https://pawelnowicki87.github.io/list_of_posts_react_redux/) · [GitHub](https://github.com/pawelnowicki87/list_of_posts_react_redux) <br> <img src="https://via.placeholder.com/250x150.png?text=List+of+Posts" alt="List of Posts Demo" width="250"/> |
-| **✅ Todo App with API (React)** | [Demo](https://pawelnowicki87.github.io/todo_app_with_api_react/) · [GitHub](https://github.com/pawelnowicki87/todo_app_with_api_react) <br> <img src="https://via.placeholder.com/250x150.png?text=Todo+App+with+API" alt="Todo App Demo" width="250"/> |
+<table>
+<tr>
+  <td align="center">
+    <strong>📱 Phone Catalog (React)</strong> <br>
+    <a href="https://phone-catalog-react.vercel.app">Demo</a> · <a href="https://github.com/pawelnowicki87/phone_catalog_react">GitHub</a> <br>
+    <img src="https://via.placeholder.com/250x150.png?text=Phone+Catalog+App" alt="Phone Catalog Demo" width="250"/>
+  </td>
+  <td align="center">
+    <strong>🎨 Welcome to the Met</strong> <br>
+    <a href="https://pawelnowicki87.github.io/welcome_to_the_met/">Demo</a> · <a href="https://github.com/pawelnowicki87/welcome_to_the_met">GitHub</a> <br>
+    <img src="https://via.placeholder.com/250x150.png?text=Welcome+to+the+Met" alt="Welcome to the Met Demo" width="250"/>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <strong>🎮 2048 Game</strong> <br>
+    <a href="https://pawelnowicki87.github.io/2048_game/">Demo</a> · <a href="https://github.com/pawelnowicki87/2048_game">GitHub</a> <br>
+    <img src="https://via.placeholder.com/250x150.png?text=2048+Game" alt="2048 Game Demo" width="250"/>
+  </td>
+  <td align="center">
+    <strong>📝 List of Posts (React + Redux)</strong> <br>
+    <a href="https://pawelnowicki87.github.io/list_of_posts_react_redux/">Demo</a> · <a href="https://github.com/pawelnowicki87/list_of_posts_react_redux">GitHub</a> <br>
+    <img src="https://via.placeholder.com/250x150.png?text=List+of+Posts" alt="List of Posts Demo" width="250"/>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <strong>✅ Todo App with API (React)</strong> <br>
+    <a href="https://pawelnowicki87.github.io/todo_app_with_api_react/">Demo</a> · <a href="https://github.com/pawelnowicki87/todo_app_with_api_react">GitHub</a> <br>
+    <img src="https://via.placeholder.com/250x150.png?text=Todo+App+with+API" alt="Todo App Demo" width="250"/>
+  </td>
+  <td align="center"></td>
+</tr>
+</table>
 
 </div>
 
