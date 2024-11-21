@@ -103,5 +103,9 @@ I’d love to hear from you! 🚀 Feel free to reach out and let's collaborate o
 - 💼 LinkedIn: [Paweł Nowicki](https://www.linkedin.com/in/pawe%C5%82-nowicki-305380268/)
 - 🌐 GitHub Portfolio: [pawel-nowicki](https://github.com/pawelnowicki)
 
-<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Let's Connect!" align="right" width="250"/>
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Let's Connect!" width="250"/>
+  </div>
+</div>
 
