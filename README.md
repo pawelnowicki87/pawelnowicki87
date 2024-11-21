@@ -8,7 +8,7 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 
 ## 🌟 **About Me**
 - 🔭 I’m currently working on building **innovative web applications** that make a real-world impact.
-- 🌱 Learning never stops: diving deeper into **.NET Core**, **C#**, **MVC Model** and exploring the **cloud technologies**.
+- 🌱 Learning never stops: diving deeper into **.NET Core**, **C#**, **MVC Model**.
 - 👯 Open to collaboration on exciting **open-source** or **team projects**. Let’s build something together!
 - ⚡ Fun fact: I love **riding my bicycle**, exploring new places, and always pushing my skills to the next level.
 
@@ -42,7 +42,6 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)  
 
 ---
@@ -103,9 +102,13 @@ I’d love to hear from you! 🚀 Feel free to reach out and let's collaborate o
 - 💼 LinkedIn: [Paweł Nowicki](https://www.linkedin.com/in/pawe%C5%82-nowicki-305380268/)
 - 🌐 GitHub Portfolio: [pawel-nowicki](https://github.com/pawelnowicki)
 
-<div style="display: flex; align-items: center;">
-  <div>
+<div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <div>
+      <a href="mailto:pawelnowickifullstack@gmail.com">💌 Email</a> | 
+      <a href="https://www.linkedin.com/in/pawe%C5%82-nowicki-305380268/">💼 LinkedIn</a> | 
+      <a href="https://github.com/pawelnowicki">🌐 GitHub</a>
+    </div>
     <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Let's Connect!" width="250"/>
   </div>
 </div>
-
