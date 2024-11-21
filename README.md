@@ -8,7 +8,7 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 
 ## 🌟 **About Me**
 - 🔭 I’m currently working on building **innovative web applications** that make a real-world impact.
-- 🌱 Learning never stops: diving deeper into **.NET Core**, **C#**, **MVC Model** and exploring the **cloud technologies**.
+- 🌱 Learning never stops: diving deeper into **.NET Core**, **C#**, **MVC Model**.
 - 👯 Open to collaboration on exciting **open-source** or **team projects**. Let’s build something together!
 - ⚡ Fun fact: I love **riding my bicycle**, exploring new places, and always pushing my skills to the next level.
 
@@ -93,10 +93,10 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 
 I’d love to hear from you! 🚀 Feel free to reach out and let's collaborate on something amazing. 
 
-![Let's Connect!](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
-
 - 💌 Email: [pawelnowickifullstack@gmail.com](mailto:pawelnowickifullstack@gmail.com)
 - 💼 LinkedIn: [Paweł Nowicki](https://www.linkedin.com/in/pawe%C5%82-nowicki-305380268/)
 - 🌐 GitHub Portfolio: [pawel-nowicki](https://github.com/pawelnowicki)
+
+<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Let's Connect!" align="right" width="250"/>
 
 ---
