@@ -105,39 +105,3 @@ I’d love to hear from you! 🚀 Feel free to reach out and let's collaborate o
 
 <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Let's Connect!" align="right" width="250"/>
 
----
-
-<style>
-  .highlight {
-    font-weight: bold;
-    color: #29A8E0;
-    animation: highlightAnimation 3s ease-in-out infinite;
-  }
-
-  .highlight:nth-child(1) {
-    animation-delay: 0s;
-  }
-
-  .highlight:nth-child(2) {
-    animation-delay: 1s;
-  }
-
-  .highlight:nth-child(3) {
-    animation-delay: 2s;
-  }
-
-  @keyframes highlightAnimation {
-    0% {
-      opacity: 0;
-      transform: translateY(-10px);
-    }
-    50% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-    100% {
-      opacity: 0;
-      transform: translateY(10px);
-    }
-  }
-</style>
