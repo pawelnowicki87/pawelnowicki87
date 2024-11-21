@@ -8,9 +8,9 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 
 ## 🌟 **About Me**
 - 🔭 I’m currently working on building **innovative web applications**.
-- 🌱 Learning never stops: diving deeper into **Cloud Architecture**, **DevOps**, and **.NET Core**.
+- 🌱 Learning never stops: diving deeper into **.NET Core**, **C#**, **MVC Model**.
 - 👯 Open to collaboration on exciting **open-source** or **team projects**.
-- ⚡ Fun fact: I love **cycling**, exploring new places, and improving my **chess skills**.
+- ⚡ Fun fact: I love **driving my bikecycle**, exploring new places, and improving my **skills**.
 
 ---
 
