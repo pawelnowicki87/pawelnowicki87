@@ -29,19 +29,25 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
-> Additionally, I'm learning **C#** and **.NET Core** to expand my backend expertise.
+### 📖 Learning
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 
 ---
 
 ## 🖥️ **Projects**
 
-| Project | Description |
+<div align="center">
+
+| Project | Demo & Code |
 |---------|-------------|
-| **📱 Phone Catalog (React)** | [Demo](https://phone-catalog-react.vercel.app) • [GitHub Repository](https://github.com/pawelnowicki87/phone_catalog_react) <br> ![Phone Catalog](https://via.placeholder.com/500x300.png?text=Phone+Catalog+App) |
-| **🎨 Welcome to the Met** | [Demo](https://pawelnowicki87.github.io/welcome_to_the_met/) • [GitHub Repository](https://github.com/pawelnowicki87/welcome_to_the_met) <br> ![Welcome to the Met](https://via.placeholder.com/500x300.png?text=Welcome+to+the+Met) |
-| **🎮 2048 Game** | [Demo](https://pawelnowicki87.github.io/2048_game/) • [GitHub Repository](https://github.com/pawelnowicki87/2048_game) <br> ![2048 Game](https://via.placeholder.com/500x300.png?text=2048+Game) |
-| **📝 List of Posts (React + Redux)** | [Demo](https://pawelnowicki87.github.io/list_of_posts_react_redux/) • [GitHub Repository](https://github.com/pawelnowicki87/list_of_posts_react_redux) <br> ![List of Posts](https://via.placeholder.com/500x300.png?text=List+of+Posts) |
-| **✅ Todo App with API (React)** | [Demo](https://pawelnowicki87.github.io/todo_app_with_api_react/) • [GitHub Repository](https://github.com/pawelnowicki87/todo_app_with_api_react) <br> ![Todo App](https://via.placeholder.com/500x300.png?text=Todo+App+with+API) |
+| **📱 Phone Catalog (React)** | [Demo](https://phone-catalog-react.vercel.app) · [GitHub](https://github.com/pawelnowicki87/phone_catalog_react) <br> <img src="https://via.placeholder.com/250x150.png?text=Phone+Catalog+App" alt="Phone Catalog Demo" width="250"/> |
+| **🎨 Welcome to the Met** | [Demo](https://pawelnowicki87.github.io/welcome_to_the_met/) · [GitHub](https://github.com/pawelnowicki87/welcome_to_the_met) <br> <img src="https://via.placeholder.com/250x150.png?text=Welcome+to+the+Met" alt="Welcome to the Met Demo" width="250"/> |
+| **🎮 2048 Game** | [Demo](https://pawelnowicki87.github.io/2048_game/) · [GitHub](https://github.com/pawelnowicki87/2048_game) <br> <img src="https://via.placeholder.com/250x150.png?text=2048+Game" alt="2048 Game Demo" width="250"/> |
+| **📝 List of Posts (React + Redux)** | [Demo](https://pawelnowicki87.github.io/list_of_posts_react_redux/) · [GitHub](https://github.com/pawelnowicki87/list_of_posts_react_redux) <br> <img src="https://via.placeholder.com/250x150.png?text=List+of+Posts" alt="List of Posts Demo" width="250"/> |
+| **✅ Todo App with API (React)** | [Demo](https://pawelnowicki87.github.io/todo_app_with_api_react/) · [GitHub](https://github.com/pawelnowicki87/todo_app_with_api_react) <br> <img src="https://via.placeholder.com/250x150.png?text=Todo+App+with+API" alt="Todo App Demo" width="250"/> |
+
+</div>
 
 ---
 
