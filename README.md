@@ -52,7 +52,7 @@ and
 <tr>
     <td align="center">
     <strong>Hematorun</strong> <br>
-    <a href="[https://phone-catalog-react.vercel.app](https://hematobieg.org/)">Demo</a><br>
+    <a href="https://hematobieg.org">Demo</a><br>
     <img src="Hematorun.png" alt="Hematorun image" width="250"/>
   </td>
   <td align="center">
