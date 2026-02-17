@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Paweł Nowicki** - **Full-Stack Developer** !
+# Hi, I'm **Paweł Nowicki** - **Full-Stack Developer** !
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=29A8E0&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Tech+Problem+Solver)
 
@@ -6,15 +6,15 @@ I’m a passionate **Full-Stack Developer** with a knack for crafting robust, sc
 <span class="highlight">curious</span>, 
 <span class="highlight">learning</span>, 
 and 
-<span class="highlight">coding</span>. 🚀
+<span class="highlight">coding</span>.
 
 ---
 
-## 🌟 **About Me**
-- 🔭 I’m currently working on building **innovative web applications** that make a real-world impact.
-- 🌱 Learning never stops: diving deeper into **.NET Core**, **C#**, **MVC Model**.
-- 👯 Open to collaboration on exciting **open-source** or **team projects**. Let’s build something together!
-- ⚡ Fun fact: I love **watching movies, playing games**, exploring new places, and always pushing my skills to the next level.
+## **About Me**
+- I’m currently working on building **innovative web applications** that make a real-world impact.
+- Learning never stops: diving deeper into **.NET Core**, **C#**, **MVC Model**.
+- Open to collaboration on exciting **open-source** or **team projects**. Let’s build something together!
+- Fun fact: I love **watching movies, playing games**, exploring new places, and always pushing my skills to the next level.
 
 ---
 
