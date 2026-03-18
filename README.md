@@ -7,21 +7,21 @@ I'm a passionate **Full Stack Engineer** with 6+ years of experience building sc
  
 ## **About Me**
  
-- 🏗️ Currently building scalable full-stack apps with **NestJS**, **Next JS**, and **AWS**.
-- 🤖 Experienced in **AI-driven workflows**, **LLMs**, **RAG**, and background processing with **Inngest**.
-- ☁️ Skilled in **event-driven architectures**, **microservices**, and **third-party API integrations**.
-- 🤝 Open to collaboration on exciting **open-source** or **team projects**. Let's build something together!
-- 🎬 Fun fact: I love **watching movies, playing games**, exploring new places, and always pushing my skills to the next level.
+- Currently building scalable full-stack apps with **NestJS**, **Next JS**, and **AWS**.
+- Experienced in **AI-driven workflows**, **LLMs**, **RAG**, and background processing with **Inngest**.
+- Skilled in **event-driven architectures**, **microservices**, and **third-party API integrations**.
+- Open to collaboration on exciting **open-source** or **team projects**. Let's build something together!
+- Fun fact: I love **watching movies, playing games**, exploring new places, and always pushing my skills to the next level.
  
 ---
  
-## 🛠️ **Tech Stack**
+## **Tech Stack**
  
-### 💻 Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
  
-### 🖥️ Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
@@ -38,7 +38,7 @@ I'm a passionate **Full Stack Engineer** with 6+ years of experience building sc
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-7B2FBE?logoColor=white&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
  
-### 🌐 Frontend
+### Frontend
 ![React JS](https://img.shields.io/badge/-React_JS-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next JS](https://img.shields.io/badge/-Next_JS-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
@@ -50,7 +50,7 @@ I'm a passionate **Full Stack Engineer** with 6+ years of experience building sc
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
  
-### 🗄️ Databases & ORM
+### Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/-Redis-FF4438?logo=redis&logoColor=white&style=for-the-badge)
 ![Azure CosmosDB](https://img.shields.io/badge/-CosmosDB-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
@@ -58,14 +58,14 @@ I'm a passionate **Full Stack Engineer** with 6+ years of experience building sc
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-FE0902?logo=typeorm&logoColor=white&style=for-the-badge)
  
-### 📨 Message Brokers
+### Message Brokers
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
  
-### ☁️ Cloud
+### Cloud
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge)
  
-### ⚙️ DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
@@ -75,7 +75,7 @@ I'm a passionate **Full Stack Engineer** with 6+ years of experience building sc
  
 ---
  
-## 🌍 **Quotes I Live By**
+## **Quotes I Live By**
  
 > "The best way to predict the future is to create it." – Abraham Lincoln  
 > **Mój komentarz**: Właśnie dlatego tworzę i rozwijam projekty, które mają wpływ na rzeczywistość.  
@@ -83,12 +83,10 @@ I'm a passionate **Full Stack Engineer** with 6+ years of experience building sc
  
 ---
  
-## 📫 **Let's Connect!**
+## **Let's Connect!**
  
 I'd love to hear from you! 🚀 Feel free to reach out and let's collaborate on something amazing.
  
 - 💌 Email: [pawelnowickifullstack@gmail.com](mailto:pawelnowickifullstack@gmail.com)
-- 💼 LinkedIn: [Paweł Nowicki](https://www.linkedin.com/in/pawe%C5%82-nowicki-305380268/)
-- 🌐 GitHub Portfolio: [pawel-nowicki](https://github.com/pawelnowicki)
  
 <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Let's Connect!" width="250"/>
