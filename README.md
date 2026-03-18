@@ -91,38 +91,6 @@ const pawel = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pawelnowicki87&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=29A8E0&icon_color=29A8E0&text_color=c9d1d9&ring_color=29A8E0" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawelnowicki87&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=29A8E0&text_color=c9d1d9&langs_count=6" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=pawelnowicki87&theme=github-dark-blue&hide_border=true&background=0d1117&ring=29A8E0&fire=29A8E0&currStreakLabel=29A8E0&sideLabels=c9d1d9&dates=8b949e" height="165"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pawelnowicki87&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawelnowicki87&bg_color=0d1117&color=29A8E0&line=0e4d8a&point=29A8E0&area=true&area_color=29A8E0&hide_border=true" width="100%"/>
-</div>
-
----
-
 ## 🌍 Quotes I Live By
 
 > *"The best way to predict the future is to create it."* — Abraham Lincoln  
