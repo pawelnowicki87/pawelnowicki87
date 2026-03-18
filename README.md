@@ -26,7 +26,7 @@
 ```typescript
 const pawel = {
   role:       "Full Stack Engineer",
-  experience: "6+ years",
+  experience: "8+ years",
   location:   "Poland 🇵🇱",
   languages:  ["TypeScript", "JavaScript"],
   focus:      ["Scalable APIs", "AI Workflows", "Cloud Architecture"],
