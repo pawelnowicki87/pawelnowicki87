@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d8a,100:29A8E0&height=220&section=header&text=Paweł%20Nowicki&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer&descSize=22&descAlignY=58&descColor=29A8E0&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=29A8E0&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Engineer+%7C+6%2B+years;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Next.js;AI+Workflows+%E2%80%A2+LLMs+%E2%80%A2+RAG;Building+scalable+web+ecosystems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=29A8E0&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Engineer+%7C+3%2B+years;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Next.js;AI+Workflows+%E2%80%A2+LLMs+%E2%80%A2+RAG;Building+scalable+web+ecosystems" alt="Typing SVG" />
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 <br/>
